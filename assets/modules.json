@@ -1,0 +1,3916 @@
+[{
+  "moduleName": "Caverns of the Troglodytes",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Caverns_of_the_Troglodytes",
+  "moduleLevel": "2",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/8/88/Caverns-of-the-Troglodytes-Part1-Map.jpg/543px-Caverns-of-the-Troglodytes-Part1-Map.jpg",
+      "monsterList": [
+        [
+          "Trog Spearman",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/4/4d/Caverns-of-the-Troglodytes-Part2-Map.jpg/600px-Caverns-of-the-Troglodytes-Part2-Map.jpg",
+      "monsterList": [
+        [
+          "Trog Spearman",
+          1
+        ],
+        [
+          "Trog Scuttler",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Wizard's Workshop",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Wizard's_Workshop",
+  "moduleLevel": "2",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/3/35/The_Wizards_Workshop_Part1_Map.jpg/554px-The_Wizards_Workshop_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Tin Golem",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/6/6e/The_Wizards_Workshop_Part2_Map.jpg/567px-The_Wizards_Workshop_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Tin Golem",
+          2
+        ],
+        [
+          "Ornithopter",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/f/fb/The_Wizards_Workshop_Part3_Map.jpg/567px-The_Wizards_Workshop_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Bronze Golem",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Lair of the Trog Wizard",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Lair_of_the_Trog_Wizard",
+  "moduleLevel": "3",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/4/49/Lair_of_the_Trog_Wizard_Part1_Map.jpg/600px-Lair_of_the_Trog_Wizard_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Trog Scuttler",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/d/d4/Lair_of_the_Trog_Wizard_Part2_Map.jpg/600px-Lair_of_the_Trog_Wizard_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Trog Wizard",
+          1
+        ],
+        [
+          "Trog Spearman",
+          1
+        ],
+        [
+          "Trog Scuttler",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Highway Robbery",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Highway_Robbery",
+  "moduleLevel": "3",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/1/1f/Highway_Robbery_Part1_Map.jpg/546px-Highway_Robbery_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Goblin Grunt",
+          3
+        ],
+        [
+          "Goblin Grunt",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/a/ae/Highway_Robbery_Part2_Map.jpg/592px-Highway_Robbery_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Goblin Hulk",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/9/93/Highway_Robbery_Part3_Map.jpg/600px-Highway_Robbery_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Bluk, Goblin Chieftain",
+          1
+        ],
+        [
+          "Goblin Shaman",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Ruby Demon Portal",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Ruby_Demon_Portal",
+  "moduleLevel": "4",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/e/e5/Ruby_Demon_Portal_Part1_Map.jpg/556px-Ruby_Demon_Portal_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Arcane Imp",
+          2
+        ],
+        [
+          "Fire Imp",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/0/02/Ruby_Demon_Portal_Part2_Map.jpg/556px-Ruby_Demon_Portal_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Arcane Imp",
+          3
+        ],
+        [
+          "Acid Imp",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/a/a5/Ruby_Demon_Portal_Part3_Map.jpg/556px-Ruby_Demon_Portal_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Fire Sprite",
+          1
+        ],
+        [
+          "Arcane Imp",
+          2
+        ],
+        [
+          "Fire Imp",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Dungeon of the Lizard Priest",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Dungeon_of_the_Lizard_Priest",
+  "moduleLevel": "4",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/d/d7/Dungeon_of_the_Lizard_Priest_Part1_Map.jpg/600px-Dungeon_of_the_Lizard_Priest_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Lizardman Warrior",
+          1
+        ],
+        [
+          "Lizardman Warrior",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/8/85/Dungeon_of_the_Lizard_Priest_Part2_Map.jpg/600px-Dungeon_of_the_Lizard_Priest_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Lizardman Warrior",
+          2
+        ],
+        [
+          "Black Ooze",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/e/e6/Dungeon_of_the_Lizard_Priest_Part3_Map.jpg/600px-Dungeon_of_the_Lizard_Priest_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Lizardman Warrior",
+          1
+        ],
+        [
+          "Lizardman Netter",
+          2
+        ],
+        [
+          "Slub'Gut",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Rescue From Shieldhaven Prison",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Rescue_From_Shieldhaven_Prison",
+  "moduleLevel": "5",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/d/dc/Rescue_From_Shieldhaven_Prison_Part1_Map.jpg/556px-Rescue_From_Shieldhaven_Prison_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Human Servant",
+          3
+        ],
+        [
+          "Men at Arms",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/0/0d/Rescue_From_Shieldhaven_Prison_Part2_Map.jpg/556px-Rescue_From_Shieldhaven_Prison_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Human Servant",
+          3
+        ],
+        [
+          "Men at Arms",
+          1
+        ],
+        [
+          "Guard Dog",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/6/6d/Rescue_From_Shieldhaven_Prison_Part3_Map.jpg/600px-Rescue_From_Shieldhaven_Prison_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Guard Dog",
+          3
+        ],
+        [
+          "Human Servant",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/9/97/Rescue_From_Shieldhaven_Prison_Part4_Map.jpg/588px-Rescue_From_Shieldhaven_Prison_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Warden Gorald",
+          1
+        ],
+        [
+          "Armored Dog",
+          1
+        ],
+        [
+          "Human Servant",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Slub Gut's Sanctum",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Slub_Gut's_Sanctum",
+  "moduleLevel": "5",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/3/35/Slub_Guts_Sanctum_Part1_Map.jpg/600px-Slub_Guts_Sanctum_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Lizardman Netter",
+          3
+        ],
+        [
+          "Black Ooze",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/4/4e/Slub_Guts_Sanctum_Part2_Map.jpg/600px-Slub_Guts_Sanctum_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Slub'Gut",
+          1
+        ],
+        [
+          "Lizardman Darter",
+          1
+        ],
+        [
+          "Lizardman Darter",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Defense of Woodhome",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Defense_of_Woodhome",
+  "moduleLevel": "6",
+  "moduleDLC": "advSet1",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/1/13/The_Defence_of_Woodhome_Part1-Map.jpg/564px-The_Defence_of_Woodhome_Part1-Map.jpg",
+      "monsterList": [
+        [
+          "Zombie",
+          3
+        ],
+        [
+          "Zombie",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/b/b5/The_Defence_of_Woodhome_Part2-Map.jpg/600px-The_Defence_of_Woodhome_Part2-Map.jpg",
+      "monsterList": [
+        [
+          "Skeleton Warrior",
+          3
+        ],
+        [
+          "Burning Skeleton",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/7/70/The_Defence_of_Woodhome_Part3-Map.jpg/590px-The_Defence_of_Woodhome_Part3-Map.jpg",
+      "monsterList": [
+        [
+          "Armored Skeleton",
+          3
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The White Star",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_White_Star",
+  "moduleLevel": "6",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/d/d0/The_White_Star_Part1_Map.jpg/600px-The_White_Star_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Kobold Avenger",
+          3
+        ],
+        [
+          "Kobold Spearman",
+          3
+        ],
+        [
+          "Kobold Priest",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/2/29/The_White_Star_Part2_Map.jpg/575px-The_White_Star_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Kobold Warrior",
+          4
+        ],
+        [
+          "Kobold Warrior",
+          4
+        ],
+        [
+          "Kobold Spearman",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/18/The_White_Star_Part3_Map.jpg/578px-The_White_Star_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Kobold Avenger",
+          3
+        ],
+        [
+          "Kobold Avenger",
+          2
+        ],
+        [
+          "Pokkin",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Diamonds of the Kobolds",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Diamonds_of_the_Kobolds",
+  "moduleLevel": "6",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/f/fa/Diamonds_of_the_Kobolds_Part1_Map.jpg/567px-Diamonds_of_the_Kobolds_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Kobold Warrior",
+          3
+        ],
+        [
+          "Kobold Warrior",
+          3
+        ],
+        [
+          "Kobold Avenger",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/0/04/Diamonds_of_the_Kobolds_Part2_Map.jpg/567px-Diamonds_of_the_Kobolds_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Kobold Avenger",
+          3
+        ],
+        [
+          "Armored Pig",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/3/35/Diamonds_of_the_Kobolds_Part3_Map.jpg/567px-Diamonds_of_the_Kobolds_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Kobold Warrior",
+          3
+        ],
+        [
+          "Kobold Avenger",
+          2
+        ],
+        [
+          "Kobold Spearman",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Valley of Tezkal",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Valley_of_Tezkal",
+  "moduleLevel": "7",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/1/15/Valley_of_Tezkal_Part_1_Map.jpg/600px-Valley_of_Tezkal_Part_1_Map.jpg",
+      "monsterList": [
+        [
+          "Creeper",
+          2
+        ],
+        [
+          "Plant Pygmy",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/7/7d/Valley_of_Tezkal_Part_2_Map.jpg/600px-Valley_of_Tezkal_Part_2_Map.jpg",
+      "monsterList": [
+        [
+          "Coatldile",
+          2
+        ],
+        [
+          "Plant Pygmy",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/11/Valley_of_Tezkal_Part_3_Map.jpg/600px-Valley_of_Tezkal_Part_3_Map.jpg",
+      "monsterList": [
+        [
+          "Creeper",
+          2
+        ],
+        [
+          "Sharkbear",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Forest of Souls",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Forest_of_Souls",
+  "moduleLevel": "7",
+  "moduleDLC": "advSet1",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/6/66/Forest_of_Souls_Part_1_Map.jpg/590px-Forest_of_Souls_Part_1_Map.jpg",
+      "monsterList": [
+        [
+          "Young Maple Tree",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/c/c3/Forest_of_Souls_Part_2_Map.jpg/558px-Forest_of_Souls_Part_2_Map.jpg",
+      "monsterList": [
+        [
+          "Young Maple Tree",
+          2
+        ],
+        [
+          "Beech Sapling",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/8/86/Forest_of_Souls_Part_3_Map.jpg/528px-Forest_of_Souls_Part_3_Map.jpg",
+      "monsterList": [
+        [
+          "Beech Sapling",
+          2
+        ],
+        [
+          "Sparkler",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Beneath the Frozen Earth",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Beneath_the_Frozen_Earth",
+  "moduleLevel": "7",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/b/ba/Beneath_the_Frozen_Earth_Part1_Map.jpg/585px-Beneath_the_Frozen_Earth_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Trog Gouger",
+          2
+        ],
+        [
+          "Trog Spearman",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/f/f8/Beneath_the_Frozen_Earth_Part2_Map.jpg/585px-Beneath_the_Frozen_Earth_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Trog Gouger",
+          2
+        ],
+        [
+          "Trog Scuttler",
+          2
+        ],
+        [
+          "Trog Wizard",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/c/c8/Beneath_the_Frozen_Earth_Part3_Map.jpg/585px-Beneath_the_Frozen_Earth_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Trog Wizard",
+          7
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Throne of Strench",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Throne_of_Strench",
+  "moduleLevel": "7",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/9/9c/The_Throne_of_Strench_Part1_Map.jpg/565px-The_Throne_of_Strench_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Trog Gouger",
+          2
+        ],
+        [
+          "Trog Spearman",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/5/53/The_Throne_of_Strench_Part2_Map.jpg/565px-The_Throne_of_Strench_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Trog Scuttler",
+          2
+        ],
+        [
+          "Trog Spearman",
+          2
+        ],
+        [
+          "Trog Scuttler",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/6/62/The_Throne_of_Strench_Part3_Map.jpg/535px-The_Throne_of_Strench_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Trog Spearman",
+          2
+        ],
+        [
+          "Strench the Pungent",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Melvelous the Magnificent",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Melvelous_the_Magnificent",
+  "moduleLevel": "8",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/e/e1/Melvelous_the_Magnificent_Part1_Map.jpg/574px-Melvelous_the_Magnificent_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Orc",
+          3
+        ],
+        [
+          "Melvelous",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/9/98/Melvelous_the_Magnificent_Part2_Map.jpg/574px-Melvelous_the_Magnificent_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Melvelous",
+          1
+        ],
+        [
+          "Trapling",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/3/37/Melvelous_the_Magnificent_Part3_Map.jpg/574px-Melvelous_the_Magnificent_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Melvelous",
+          1
+        ],
+        [
+          "Trapling",
+          2
+        ],
+        [
+          "Orc",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Beneath Tcotzac",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Beneath_Tcotzac",
+  "moduleLevel": "8",
+  "moduleDLC": "advSet2",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/6/6f/Beneath_Tcotzac_Part_1_Map.jpg/600px-Beneath_Tcotzac_Part_1_Map.jpg",
+      "monsterList": [
+        [
+          "Magma Idol",
+          1
+        ],
+        [
+          "Gnarl",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/b/bf/Beneath_Tcotzac_Part_2_Map.jpg/600px-Beneath_Tcotzac_Part_2_Map.jpg",
+      "monsterList": [
+        [
+          "Hyper Thalamus",
+          1
+        ],
+        [
+          "Psi Cat",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/3/3c/Beneath_Tcotzac_Part_3_Map.jpg/600px-Beneath_Tcotzac_Part_3_Map.jpg",
+      "monsterList": [
+        [
+          "Curse Idol",
+          1
+        ],
+        [
+          "Curse Idol",
+          1
+        ],
+        [
+          "Gnarl",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Order of the Core",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Order_of_the_Core",
+  "moduleLevel": "8",
+  "moduleDLC": "advSet1",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/9/97/Order_of_the_Core_Part1_Map.jpg/565px-Order_of_the_Core_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Novice Geomancer",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/2/2a/Order_of_the_Core_Part2_Map.jpg/600px-Order_of_the_Core_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Novice Geomancer",
+          2
+        ],
+        [
+          "Trog Scuttler",
+          3
+        ],
+        [
+          "Trog Scuttler",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/5/5c/Order_of_the_Core_Part3_Map.jpg/600px-Order_of_the_Core_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Apprentice Geomancer",
+          2
+        ],
+        [
+          "Novice Geomancer",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Compass of Xorr",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Compass_of_Xorr",
+  "moduleLevel": "8",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/7/77/The_Compass_of_Xorr_Part1_Map.jpg/597px-The_Compass_of_Xorr_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Guard Dog",
+          2
+        ],
+        [
+          "Human Servant",
+          3
+        ],
+        [
+          "Men At Arms",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/7/73/The_Compass_of_Xorr_Part2_Map.jpg/600px-The_Compass_of_Xorr_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Armored Dogs",
+          2
+        ],
+        [
+          "Human Servant",
+          2
+        ],
+        [
+          "Men At Arms",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/e/eb/The_Compass_of_Xorr_Part3_Map.jpg/600px-The_Compass_of_Xorr_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Mercenary",
+          1
+        ],
+        [
+          "Armored Dogs",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Lord Stafford's Treasure",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Lord_Stafford's_Treasure",
+  "moduleLevel": "8",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/7/7a/Lord_Staffords_Treasure_Part1_Map.jpg/528px-Lord_Staffords_Treasure_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Copper Golem",
+          1
+        ],
+        [
+          "Men At Arms",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/8/8f/Lord_Staffords_Treasure_Part2_Map.jpg/600px-Lord_Staffords_Treasure_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Mercenary",
+          1
+        ],
+        [
+          "Men At Arms",
+          2
+        ],
+        [
+          "Human Priest",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/0/04/Lord_Staffords_Treasure_Part3_Map.jpg/583px-Lord_Staffords_Treasure_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Mercenary",
+          1
+        ],
+        [
+          "Armored Dogs",
+          2
+        ],
+        [
+          "Lord Stafford",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Gladiatorial Arena, Qualifiers",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Gladiatorial_Arena,_Qualifiers",
+  "moduleLevel": "9",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/8/8e/Gladiatorial_Arena_Qualifiers_Part1_Map.jpg/600px-Gladiatorial_Arena_Qualifiers_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Amirault Catt",
+          1
+        ],
+        [
+          "Gethan Deathzap",
+          1
+        ],
+        [
+          "Carolinia",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/7/79/Gladiatorial_Arena_Qualifiers_Part2_Map.jpg/600px-Gladiatorial_Arena_Qualifiers_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Goblin Hulk",
+          1
+        ],
+        [
+          "Festering Zombie",
+          2
+        ],
+        [
+          "Plog Kneechopper",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/2/22/Gladiatorial_Arena_Qualifiers_Part3_Map.jpg/600px-Gladiatorial_Arena_Qualifiers_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Armored Dog",
+          1
+        ],
+        [
+          "Fire Sprite",
+          1
+        ],
+        [
+          "Burning Skeleton",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Gladiatorial Arena, Finals",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Gladiatorial_Arena,_Finals",
+  "moduleLevel": "9",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/e/e1/Gladiatorial_Arena_Finals_Part1_Map.jpg/600px-Gladiatorial_Arena_Finals_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Black Ooze",
+          1
+        ],
+        [
+          "Trog Gouger",
+          2
+        ],
+        [
+          "Lizardman Cleric",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/d/de/Gladiatorial_Arena_Finals_Part2_Map.jpg/600px-Gladiatorial_Arena_Finals_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Miriam Sancter",
+          1
+        ],
+        [
+          "Tall Beech Tree",
+          1
+        ],
+        [
+          "Kobold Avenger",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/c/c0/Gladiatorial_Arena_Finals_Part3_Map.jpg/600px-Gladiatorial_Arena_Finals_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Lumbrezz the Mad",
+          1
+        ],
+        [
+          "Holloborn the Nimble",
+          1
+        ],
+        [
+          "Vingus Stoneblessed",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Crystals of Chronak",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Crystals_of_Chronak",
+  "moduleLevel": "9",
+  "moduleDLC": "advSet2",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/3/31/Crystals_Chronak_Part_1_Map.jpg/600px-Crystals_Chronak_Part_1_Map.jpg",
+      "monsterList": [
+        [
+          "Mummy",
+          1
+        ],
+        [
+          "Mummy",
+          1
+        ],
+        [
+          "Blood Priest",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/8/8d/Crystals_Chronak_Part_2_Map.jpg/600px-Crystals_Chronak_Part_2_Map.jpg",
+      "monsterList": [
+        [
+          "Blood Disciple",
+          2
+        ],
+        [
+          "Blood Disciple",
+          2
+        ],
+        [
+          "Chupacabra",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/7/73/Crystals_Chronak_Part_3_Map.jpg/600px-Crystals_Chronak_Part_3_Map.jpg",
+      "monsterList": [
+        [
+          "Tsastii",
+          1
+        ],
+        [
+          "Magma Idol",
+          1
+        ],
+        [
+          "Blood Disciple",
+          3
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Return to Woodhome",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Return_to_Woodhome",
+  "moduleLevel": "9",
+  "moduleDLC": "advSet1",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/1/1e/Return_to_Woodhome_Part1_Map.jpg/579px-Return_to_Woodhome_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Festering Zombie",
+          3
+        ],
+        [
+          "Zombie",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/15/Return_to_Woodhome_Part2_Map.jpg/579px-Return_to_Woodhome_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Festering Zombie",
+          1
+        ],
+        [
+          "Zombie",
+          3
+        ],
+        [
+          "Skeleton Warrior",
+          3
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Twilight in Eastpass",
+  "moduleLink": "http://ln.to/LFG/maps/map09.htm",
+  "moduleLevel": "9",
+  "moduleDLC": "advSet5",
+  "moduleStages": [
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Ankheg Nimphs",3],
+        ["Ankheg Nimphs",3]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Ankheg",1],
+        ["Harpy Scavenger",2],
+        ["Harpy Scavenger",2],
+        ["Reinforced Door",4]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Carrion Scuttler",1],
+        ["Carrion Scuttler",1],
+        ["Harpy Scavenger",3],
+        ["Zombie",3]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Sinister Wood",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Sinister_Wood",
+  "moduleLevel": "10",
+  "moduleDLC": "advSet1",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/c/ca/The_Sinister_Wood_Part1_Map.jpg/579px-The_Sinister_Wood_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Young Maple Tree",
+          2
+        ],
+        [
+          "Maple Tree",
+          1
+        ],
+        [
+          "Forest Spider",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/d/d3/The_Sinister_Wood_Part2_Map.jpg/600px-The_Sinister_Wood_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Tall Beech Tree",
+          1
+        ],
+        [
+          "Beech Tree",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/a/a3/The_Sinister_Wood_Part3_Map.jpg/600px-The_Sinister_Wood_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Tall Beech Tree",
+          1
+        ],
+        [
+          "Forest Spider",
+          2
+        ],
+        [
+          "Sparkler",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Garnet Demon Portal",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Garnet_Demon_Portal",
+  "moduleLevel": "10",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/d/d1/Garnet_Demon_Portal_Part1_Map.jpg/600px-Garnet_Demon_Portal_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Arcane Imp",
+          2
+        ],
+        [
+          "Frost Imp",
+          2
+        ],
+        [
+          "Lightning Imp",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/2/27/Garnet_Demon_Portal_Part2_Map.jpg/600px-Garnet_Demon_Portal_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Lightning Imp",
+          3
+        ],
+        [
+          "Fire Sprite",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/d/d2/Garnet_Demon_Portal_Part3_Map.jpg/600px-Garnet_Demon_Portal_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Frost Imp",
+          2
+        ],
+        [
+          "Arcane Sprite",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/c/cf/Garnet_Demon_Portal_Part4_Map.jpg/600px-Garnet_Demon_Portal_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Lightning Imp",
+          3
+        ],
+        [
+          "Fire Sprite",
+          2
+        ],
+        [
+          "Acid Sprite",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/2/26/Garnet_Demon_Portal_Part5_Map.jpg/600px-Garnet_Demon_Portal_Part5_Map.jpg",
+      "monsterList": [
+        [
+          "Fire Sprite",
+          2
+        ],
+        [
+          "Acid Sprite",
+          2
+        ],
+        [
+          "Arcane Sprite",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Viscous Tombs",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Viscous_Tombs",
+  "moduleLevel": "10",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/f/f3/The_Viscous_Tombs_Part1_Map.jpg/543px-The_Viscous_Tombs_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Black Ooze",
+          2
+        ],
+        [
+          "Black Ooze",
+          2
+        ],
+        [
+          "Armored Skeleton",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/7/7f/The_Viscous_Tombs_Part2_Map.jpg/543px-The_Viscous_Tombs_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Black Ooze",
+          2
+        ],
+        [
+          "Yellow Pudding",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/5/50/The_Viscous_Tombs_Part3_Map.jpg/514px-The_Viscous_Tombs_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Yellow Pudding",
+          3
+        ],
+        [
+          "Burning Skeleton",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Against the Cockroaches",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Against_the_Cockroaches",
+  "moduleLevel": "10",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/e/e3/Against_the_Cockroaches_Part1_Map.jpg/587px-Against_the_Cockroaches_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Giant Cockroach",
+          6
+        ],
+        [
+          "Giant Cockroach",
+          6
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/0/0f/Against_the_Cockroaches_Part2_Map.jpg/587px-Against_the_Cockroaches_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Stench Demon",
+          1
+        ],
+        [
+          "Giant Cockroach",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/f/f3/Against_the_Cockroaches_Part3_Map.jpg/587px-Against_the_Cockroaches_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Giant Cockroach",
+          6
+        ],
+        [
+          "Reinforced Door",
+          1
+        ],
+        [
+          "Stench Demon",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Goblins in the Woods",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Goblins_in_the_Woods",
+  "moduleLevel": "11",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/9/92/Goblins_in_the_Woods_Part1_Map.jpg/567px-Goblins_in_the_Woods_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Goblin Hulk",
+          2
+        ],
+        [
+          "Goblin Grunt",
+          3
+        ],
+        [
+          "Goblin Shaman",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/8/85/Goblins_in_the_Woods_Part2_Map.jpg/567px-Goblins_in_the_Woods_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Goblin Shredder",
+          2
+        ],
+        [
+          "Forest Spider",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/a/a2/Goblins_in_the_Woods_Part3_Map.jpg/545px-Goblins_in_the_Woods_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Goblin Berserker",
+          1
+        ],
+        [
+          "Goblin Grunt",
+          2
+        ],
+        [
+          "Goblin Berserker",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/6/61/Goblins_in_the_Woods_Part4_Map.jpg/581px-Goblins_in_the_Woods_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Goblin Grunt",
+          3
+        ],
+        [
+          "Goblin Grunt",
+          3
+        ],
+        [
+          "Goblin Grunt",
+          3
+        ],
+        [
+          "Goblin Hulk",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Descent to the Core",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Descent_to_the_Core",
+  "moduleLevel": "11",
+  "moduleDLC": "advSet1",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/a/a9/Descent_to_the_Core_Part1_Map.jpg/536px-Descent_to_the_Core_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Practiced Geomancer",
+          1
+        ],
+        [
+          "Apprentice Geomancer",
+          1
+        ],
+        [
+          "Ethereal Wisp",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/6/67/Descent_to_the_Core_Part2_Map.jpg/565px-Descent_to_the_Core_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Practiced Geomancer",
+          1
+        ],
+        [
+          "Novice Geomancer",
+          2
+        ],
+        [
+          "Trog Scuttler",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/9/97/Descent_to_the_Core_Part3_Map.jpg/600px-Descent_to_the_Core_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Practiced Geomancer",
+          1
+        ],
+        [
+          "Novice Geomancer",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Pools of Slime",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Pools_of_Slime",
+  "moduleLevel": "11",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/4/4d/The_Pools_of_Slime_Part1_Map.jpg/591px-The_Pools_of_Slime_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Black Ooze",
+          4
+        ],
+        [
+          "Green Jelly",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/c/c5/The_Pools_of_Slime_Part2_Map.jpg/591px-The_Pools_of_Slime_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Black Ooze",
+          3
+        ],
+        [
+          "Yellow Pudding",
+          2
+        ],
+        [
+          "Green Jelly",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/0/07/The_Pools_of_Slime_Part3_Map.jpg/600px-The_Pools_of_Slime_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Green Jelly",
+          1
+        ],
+        [
+          "Yellow Pudding",
+          3
+        ],
+        [
+          "Zombie",
+          4
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Grasping Grove",
+  "moduleLink": "http://ln.to/LFG/maps/map11.htm",
+  "moduleLevel": "11",
+  "moduleDLC": "advSet5",
+  "moduleStages": [
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Terminator Vine",1],
+        ["Terminator Vine",1],
+        ["Bee Swarms",2],
+        ["Bee Swarms",2]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Terminator Vine",1],
+        ["Beehives",3],
+        ["Bee Swarms",1]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Lumbering Heaps",1],
+        ["Lumbering Heaps",1],
+        ["Creeper",2]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "But A Trifle (Hard)",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/But_A_Trifle_(Hard)",
+  "moduleLevel": "12",
+  "moduleDLC": "advSet4",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/0/05/Trifle_m1.jpg/600px-Trifle_m1.jpg",
+      "monsterList": [
+        [
+          "Meals",
+          3
+        ],
+        [
+          "Meals",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/e/ed/Trifle_m2.jpg/600px-Trifle_m2.jpg",
+      "monsterList": [
+        [
+          "Meals",
+          3
+        ],
+        [
+          "Meals",
+          2
+        ],
+        [
+          "Chef Ramses",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/a/a6/Trifle_m3.jpg/600px-Trifle_m3.jpg",
+      "monsterList": [
+        [
+          "Werecake",
+          1
+        ],
+        [
+          "Slice Beasts",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Temple of Scales",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Temple_of_Scales",
+  "moduleLevel": "12",
+  "moduleDLC": "advSet1",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/6/6c/Temple_of_Scales_Part1_Map.jpg/562px-Temple_of_Scales_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Lizardman Warrior",
+          4
+        ],
+        [
+          "Lizardman Darter",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/1b/Temple_of_Scales_Part2_Map.jpg/562px-Temple_of_Scales_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Lizardman Darter",
+          3
+        ],
+        [
+          "Lizardman Netter",
+          2
+        ],
+        [
+          "Lizardman Cleric",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/6/6a/Temple_of_Scales_Part3_Map.jpg/562px-Temple_of_Scales_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Lizardman Darter",
+          2
+        ],
+        [
+          "Four-Headed Hydra",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/b/b8/Temple_of_Scales_Part4_Map.jpg/562px-Temple_of_Scales_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Lizardman Darter",
+          3
+        ],
+        [
+          "Green Jelly",
+          1
+        ],
+        [
+          "Lizardman Cleric",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Acquire Within (Hard)",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Acquire_Within_(Hard)",
+  "moduleLevel": "12",
+  "moduleDLC": "advSet4",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/c/cf/Acquire_Within_Part1_Map.jpg/600px-Acquire_Within_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Assassin",
+          1
+        ],
+        [
+          "Assassins",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/0/00/Acquire_Within_Part2_Map.jpg/600px-Acquire_Within_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Poison Elementals",
+          4
+        ],
+        [
+          "Death Elementals",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/b/b0/Acquire_Within_Part3_Map.jpg/600px-Acquire_Within_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Planar Portals",
+          3
+        ],
+        [
+          "Poison Elementals",
+          1
+        ],
+        [
+          "Death Elemental",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Tree Forts of the Goblin King",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Tree_Forts_of_the_Goblin_King",
+  "moduleLevel": "12",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/5/55/Tree_Forts_of_the_Goblin_King_Part1_Map.jpg/572px-Tree_Forts_of_the_Goblin_King_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Goblin Shredder",
+          3
+        ],
+        [
+          "Sparkler",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/6/67/Tree_Forts_of_the_Goblin_King_Part2_Map.jpg/589px-Tree_Forts_of_the_Goblin_King_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Goblin Berserker",
+          1
+        ],
+        [
+          "Goblin Hulk",
+          2
+        ],
+        [
+          "Goblin Shredder",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/b/b1/Tree_Forts_of_the_Goblin_King_Part3_Map.jpg/559px-Tree_Forts_of_the_Goblin_King_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Guztuk, Goblin King",
+          1
+        ],
+        [
+          "Kazhak, Goblin Shaman",
+          1
+        ],
+        [
+          "Goblin Shredder",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Tomb of Tvericus",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Tomb_of_Tvericus",
+  "moduleLevel": "12",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/d/d7/The_Tomb_of_Tvericus_Part1_Map.jpg/553px-The_Tomb_of_Tvericus_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Zombie",
+          5
+        ],
+        [
+          "Zombie",
+          5
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/18/The_Tomb_of_Tvericus_Part2_Map.jpg/572px-The_Tomb_of_Tvericus_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Armored Skeleton",
+          1
+        ],
+        [
+          "Armored Skeleton",
+          1
+        ],
+        [
+          "Armored Skeleton",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/7/70/The_Tomb_of_Tvericus_Part3_Map.jpg/539px-The_Tomb_of_Tvericus_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Skeleton Warrior",
+          3
+        ],
+        [
+          "Festering Zombie",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/1c/The_Tomb_of_Tvericus_Part4_Map.jpg/573px-The_Tomb_of_Tvericus_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Tvericus",
+          1
+        ],
+        [
+          "Skeleton Warrior",
+          3
+        ],
+        [
+          "Zombie",
+          4
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Tomb of Savings (Hard)",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Tomb_of_Savings_(Hard)",
+  "moduleLevel": "12",
+  "moduleDLC": "advSet4",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/9/9d/Savings_m1.jpg/600px-Savings_m1.jpg",
+      "monsterList": [
+        [
+          "Boulder",
+          1
+        ],
+        [
+          "Cave-in Trap",
+          5
+        ],
+        [
+          "Guillotine Trap",
+          5
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/4/49/Free_Engraving.png/600px-Free_Engraving.png",
+      "monsterList": [
+        [
+          "Tombstones",
+          6
+        ],
+        [
+          "Tombstones",
+          6
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/0/0b/Tomb_of_Savings_Part3_Map.jpg/600px-Tomb_of_Savings_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Lich",
+          1
+        ],
+        [
+          "Phylacteries",
+          5
+        ],
+        [
+          "Tombstones",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Shrine of the Astral Guardians",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Shrine_of_the_Astral_Guardians",
+  "moduleLevel": "13",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/d/d1/Shrine_of_the_Astral_Guardians_Part1_Map.jpg/563px-Shrine_of_the_Astral_Guardians_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Guardian of Mist",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/a/a7/Shrine_of_the_Astral_Guardians_Part2_Map.jpg/600px-Shrine_of_the_Astral_Guardians_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Guardian of Mist",
+          3
+        ],
+        [
+          "Guardian of Shadow",
+          1
+        ],
+        [
+          "Guardian of Shadow",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/9/91/Shrine_of_the_Astral_Guardians_Part3_Map.jpg/579px-Shrine_of_the_Astral_Guardians_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Guardian of Mist",
+          2
+        ],
+        [
+          "Guardian of Motes",
+          1
+        ],
+        [
+          "Guardian of Motes",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Larcenous River",
+  "moduleLink": "http://ln.to/LFG/maps/map13.htm",
+  "moduleLevel": "13",
+  "moduleDLC": "advSet5",
+  "moduleStages": [
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Pirate Lookouts",3],
+        ["Pirate Sailors",3]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Pirate Boarders",3],
+        ["Pirate Sailors",3]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Pirate Lookouts",3],
+        ["Pirate Boarders",3],
+        ["Pirate Grog Master",1]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Jewel of Alet Zhav",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Jewel_of_Alet_Zhav",
+  "moduleLevel": "13",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/f/f5/The_Jewel_of_Alet_Zhav_Part1_Map.jpg/589px-The_Jewel_of_Alet_Zhav_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Zombie",
+          4
+        ],
+        [
+          "Zombie",
+          4
+        ],
+        [
+          "Zombie",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/7/71/The_Jewel_of_Alet_Zhav_Part2_Map.jpg/589px-The_Jewel_of_Alet_Zhav_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Burning Skeleton",
+          2
+        ],
+        [
+          "Burning Skeleton",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/e/e0/The_Jewel_of_Alet_Zhav_Part3_Map.jpg/589px-The_Jewel_of_Alet_Zhav_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Muscular Zombie",
+          1
+        ],
+        [
+          "Festering Zombie",
+          2
+        ],
+        [
+          "Zombie",
+          5
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/8/8e/The_Jewel_of_Alet_Zhav_Part4_Map.jpg/600px-The_Jewel_of_Alet_Zhav_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Muscular Zombie",
+          1
+        ],
+        [
+          "Festering Zombie",
+          1
+        ],
+        [
+          "Alet Zhav",
+          1
+        ],
+        [
+          "Skeleton Warrior",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "High Mountain Pass",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/High_Mountain_Pass",
+  "moduleLevel": "13",
+  "moduleDLC": "advSet1",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/0/01/High_Mountain_Pass_Part1_Map.jpg/562px-High_Mountain_Pass_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Mottled Ogre",
+          2
+        ],
+        [
+          "Goblin Grunt",
+          5
+        ],
+        [
+          "Goblin Grunt",
+          5
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/0/07/High_Mountain_Pass_Part2_Map.jpg/600px-High_Mountain_Pass_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Ogre Bruiser",
+          1
+        ],
+        [
+          "Goblin Grunt",
+          4
+        ],
+        [
+          "Goblin Grunt",
+          4
+        ],
+        [
+          "Goblin Shredder",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/b/b3/High_Mountain_Pass_Part3_Map.jpg/536px-High_Mountain_Pass_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Ogre Bruiser",
+          1
+        ],
+        [
+          "Ogre Magicker",
+          1
+        ],
+        [
+          "Goblin Grunt",
+          3
+        ],
+        [
+          "Goblin Shredder",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/10/High_Mountain_Pass_Part4_Map.jpg/600px-High_Mountain_Pass_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Mottled Ogre",
+          2
+        ],
+        [
+          "Ogre Magicker",
+          1
+        ],
+        [
+          "Goblin Grunt",
+          4
+        ],
+        [
+          "Goblin Shredder",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Citrine Demon Portal",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Citrine_Demon_Portal",
+  "moduleLevel": "14",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/e/e3/Citrine_Demon_Portal_Part1_Map.jpg/600px-Citrine_Demon_Portal_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Lightning Sprite",
+          4
+        ],
+        [
+          "Frost Sprite",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/5/5b/Citrine_Demon_Portal_Part2_Map.jpg/600px-Citrine_Demon_Portal_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Burning Fiend",
+          1
+        ],
+        [
+          "Lightning Sprite",
+          3
+        ],
+        [
+          "Fire Sprite",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/a/a4/Citrine_Demon_Portal_Part3_Map.jpg/600px-Citrine_Demon_Portal_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Acid Fiend",
+          1
+        ],
+        [
+          "Frost Sprite",
+          4
+        ],
+        [
+          "Lightning Sprite",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/8/81/Citrine_Demon_Portal_Part4_Map.jpg/600px-Citrine_Demon_Portal_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Acid Fiend",
+          1
+        ],
+        [
+          "Burning Fiend",
+          1
+        ],
+        [
+          "Lightning Sprite",
+          3
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Lord Batford's Manor",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Lord_Batford's_Manor",
+  "moduleLevel": "14",
+  "moduleDLC": "advSet1",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/b/ba/Lord_Batfords_Manor_Part1_Map.jpg/600px-Lord_Batfords_Manor_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Human Servant",
+          2
+        ],
+        [
+          "Mercenaries",
+          2
+        ],
+        [
+          "Xbow Guard",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/5/5c/Lord_Batfords_Manor_Part2_Map.jpg/600px-Lord_Batfords_Manor_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Chef Garcotto",
+          1
+        ],
+        [
+          "Human Servant",
+          2
+        ],
+        [
+          "War Dog",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/d/d2/Lord_Batfords_Manor_Part3_Map.jpg/600px-Lord_Batfords_Manor_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Hardened Mercenary",
+          1
+        ],
+        [
+          "Mercenary",
+          1
+        ],
+        [
+          "Human Servant",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/13/Lord_Batfords_Manor_Part4_Map.jpg/600px-Lord_Batfords_Manor_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Alonzo the Sniper",
+          1
+        ],
+        [
+          "Xbow Guard",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/1c/Lord_Batfords_Manor_Part5_Map.jpg/600px-Lord_Batfords_Manor_Part5_Map.jpg",
+      "monsterList": [
+        [
+          "Hardened Mercenary",
+          1
+        ],
+        [
+          "War Dog",
+          1
+        ],
+        [
+          "Human Servant",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/0/08/Lord_Batfords_Manor_Part6_Map.jpg/600px-Lord_Batfords_Manor_Part6_Map.jpg",
+      "monsterList": [
+        [
+          "Mercenaries",
+          3
+        ],
+        [
+          "War Dog",
+          1
+        ],
+        [
+          "Lord Batford",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Return to the Astral Shrine",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Return_to_the_Astral_Shrine",
+  "moduleLevel": "14",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/b/bf/Return_to_the_Astral_Shrine_Part1_Map.jpg/600px-Return_to_the_Astral_Shrine_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Guardians of Shadow",
+          2
+        ],
+        [
+          "Guardian of Motes",
+          1
+        ],
+        [
+          "Guardian of Motes",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/6/68/Return_to_the_Astral_Shrine_Part2_Map.jpg/600px-Return_to_the_Astral_Shrine_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Guardian of Mist",
+          2
+        ],
+        [
+          "Guardians of Shadow",
+          2
+        ],
+        [
+          "Guardian of Motes",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Riddle of the Gnome Lords",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Riddle_of_the_Gnome_Lords",
+  "moduleLevel": "15",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/5/5b/Riddle_of_the_Gnome_Lords_Part1_Map.jpg/600px-Riddle_of_the_Gnome_Lords_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Gnome Berserker",
+          4
+        ],
+        [
+          "Gnome Inciter",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/d/de/Riddle_of_the_Gnome_Lords_Part2_Map.jpg/600px-Riddle_of_the_Gnome_Lords_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Gnome Berserker",
+          4
+        ],
+        [
+          "Gnome Inciter",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/a/ab/Riddle_of_the_Gnome_Lords_Part3_Map.jpg/600px-Riddle_of_the_Gnome_Lords_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Gnome Berserker",
+          2
+        ],
+        [
+          "Wild Gnome",
+          3
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Secret of the Gnome Lords",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Secret_of_the_Gnome_Lords",
+  "moduleLevel": "15",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/d/da/Secret_of_the_Gnome_Lords_Part1_Map.jpg/600px-Secret_of_the_Gnome_Lords_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Furious Gnome",
+          3
+        ],
+        [
+          "Gnome Berserker",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/e/e8/Secret_of_the_Gnome_Lords_Part2_Map.jpg/600px-Secret_of_the_Gnome_Lords_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Furious Gnome",
+          3
+        ],
+        [
+          "Fungus Warrior",
+          1
+        ],
+        [
+          "Wild Gnome",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Pirate Host",
+  "moduleLink": "http://ln.to/LFG/maps/map15.htm",
+  "moduleLevel": "15",
+  "moduleDLC": "advSet5",
+  "moduleStages": [
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Pirate Lookouts",3],
+        ["Pirate Boarders",3],
+        ["Pirate Sailors",3]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Esper Fungi",2],
+        ["Pirate Boarders",2],
+        ["Pirate Sailors",2]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Pirate Captain",1],
+        ["Esper Fungi",1],
+        ["Pirate Boarders",3],
+        ["Pirate Lookouts",3]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Attack of the War Monkeys",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Attack_of_the_War_Monkeys",
+  "moduleLevel": "16",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/4/46/Attack_of_the_War_Monkeys_Part1_Map.jpg/600px-Attack_of_the_War_Monkeys_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "War Monkey",
+          5
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/a/a0/Attack_of_the_War_Monkeys_Part2_Map.jpg/600px-Attack_of_the_War_Monkeys_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "War Monkey",
+          3
+        ],
+        [
+          "War Monkey",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/9/97/Attack_of_the_War_Monkeys_Part3_Map.jpg/600px-Attack_of_the_War_Monkeys_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Flying Monkey",
+          2
+        ],
+        [
+          "War Monkey",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/3/34/Attack_of_the_War_Monkeys_Part4_Map.jpg/600px-Attack_of_the_War_Monkeys_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Flying Monkey",
+          2
+        ],
+        [
+          "Monkey Chieftain",
+          1
+        ],
+        [
+          "War Monkey",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Cliffs of the Wyverns",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Cliffs_of_the_Wyverns",
+  "moduleLevel": "16",
+  "moduleDLC": "advSet1",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/2/2f/Cliffs_of_the_Wyverns_Part1_Map.jpg/600px-Cliffs_of_the_Wyverns_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Baby Wyvern",
+          3
+        ],
+        [
+          "Baby Wyvern",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/a/a3/Cliffs_of_the_Wyverns_Part2_Map.jpg/600px-Cliffs_of_the_Wyverns_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Young Wyvern",
+          2
+        ],
+        [
+          "Baby Wyvern",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/d/d6/Cliffs_of_the_Wyverns_Part3_Map.jpg/600px-Cliffs_of_the_Wyverns_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Young Wyvern",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/d/d4/Cliffs_of_the_Wyverns_Part4_Map.jpg/600px-Cliffs_of_the_Wyverns_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Baby Wyvern",
+          3
+        ],
+        [
+          "Young Wyvern",
+          2
+        ],
+        [
+          "Adult Wyvern",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Temple of Terror",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Temple_of_Terror",
+  "moduleLevel": "16",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/d/d0/Temple_of_Terror_Part1_Map.jpg/600px-Temple_of_Terror_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "War Monkey",
+          3
+        ],
+        [
+          "Forest Spider",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/f/f6/Temple_of_Terror_Part2_Map.jpg/600px-Temple_of_Terror_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Flying Monkey",
+          2
+        ],
+        [
+          "War Monkey",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/5/5f/Temple_of_Terror_Part3_Map.jpg/600px-Temple_of_Terror_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "War Monkey",
+          2
+        ],
+        [
+          "Hell Mantis",
+          1
+        ],
+        [
+          "Monkey Chieftain",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Into the Black Forest",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Into_the_Black_Forest",
+  "moduleLevel": "16",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/0/06/Into_the_Black_Forest_Part1_Map.jpg/600px-Into_the_Black_Forest_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Tall Beech Tree",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/9/91/Into_the_Black_Forest_Part2_Map.jpg/600px-Into_the_Black_Forest_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Oak Bombardier",
+          2
+        ],
+        [
+          "Towering Maple Tree",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/7/7c/Into_the_Black_Forest_Part3_Map.jpg/600px-Into_the_Black_Forest_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "War Monkey",
+          3
+        ],
+        [
+          "War Monkey",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/4/4d/Into_the_Black_Forest_Part4_Map.jpg/600px-Into_the_Black_Forest_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Tall Beech Tree",
+          3
+        ],
+        [
+          "Spreading Oak",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Lair of the Yellow Dragon",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Lair_of_the_Yellow_Dragon",
+  "moduleLevel": "17",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/d/d1/Lair_of_the_Yellow_Dragon_Part1_Map.jpg/579px-Lair_of_the_Yellow_Dragon_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Ogre Bruiser",
+          1
+        ],
+        [
+          "Ogre Bruiser",
+          1
+        ],
+        [
+          "Ogre Bruiser",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/10/Lair_of_the_Yellow_Dragon_Part2_Map.jpg/600px-Lair_of_the_Yellow_Dragon_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Ethereal Wisp",
+          3
+        ],
+        [
+          "Blinking Wisp",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/e/ed/Lair_of_the_Yellow_Dragon_Part3_Map.jpg/600px-Lair_of_the_Yellow_Dragon_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Ogre Bruiser",
+          2
+        ],
+        [
+          "Ogre Magicker",
+          1
+        ],
+        [
+          "Blinking Wisp",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/9/95/Lair_of_the_Yellow_Dragon_Part4_Map.jpg/600px-Lair_of_the_Yellow_Dragon_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Yellow Dragon",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "CardStock II Secret Preview",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/CardStock_II_Secret_Preview",
+  "moduleLevel": "17",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/5/5e/CardStock_II_Secret_Preview_Part1_Map.jpg/600px-CardStock_II_Secret_Preview_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "MP AI Warrior 1",
+          1
+        ],
+        [
+          "MP AI Priest 1",
+          1
+        ],
+        [
+          "MP AI Wizard 1",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/9/98/CardStock_II_Secret_Preview_Part2_Map.jpg/600px-CardStock_II_Secret_Preview_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "MP AI Warrior 3",
+          1
+        ],
+        [
+          "MP AI Priest 3",
+          1
+        ],
+        [
+          "MP AI Wizard 3",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/8/8b/CardStock_II_Secret_Preview_Part3_Map.jpg/600px-CardStock_II_Secret_Preview_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "MP AI Warrior 5",
+          1
+        ],
+        [
+          "MP AI Priest 4",
+          1
+        ],
+        [
+          "MP AI Wizard 5",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Dungeon of the Swamp King",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Dungeon_of_the_Swamp_King",
+  "moduleLevel": "17",
+  "moduleDLC": "advSet1",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/7/7b/Dungeon_of_the_Swamp_King_Part1_Map.jpg/560px-Dungeon_of_the_Swamp_King_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Green Jelly",
+          3
+        ],
+        [
+          "Ochre Slime",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/3/33/Dungeon_of_the_Swamp_King_Part2_Map.jpg/590px-Dungeon_of_the_Swamp_King_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Ochre Slime",
+          3
+        ],
+        [
+          "Burning Skeleton",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/7/7c/Dungeon_of_the_Swamp_King_Part3_Map.jpg/600px-Dungeon_of_the_Swamp_King_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Green Jelly",
+          2
+        ],
+        [
+          "Ochre Slime",
+          2
+        ],
+        [
+          "Tan Mold",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/3/30/Dungeon_of_the_Swamp_King_Part4_Map.jpg/600px-Dungeon_of_the_Swamp_King_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Ochre Slime",
+          4
+        ],
+        [
+          "Tan Mold",
+          1
+        ],
+        [
+          "Duke Oggencot",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Black Oaken Heart",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Black_Oaken_Heart",
+  "moduleLevel": "17",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/9/9d/Black_Oaken_Heart_Part1_Map.jpg/570px-Black_Oaken_Heart_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Spreading Oak",
+          2
+        ],
+        [
+          "Oak Bombardier",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/e/ed/Black_Oaken_Heart_Part2_Map.jpg/600px-Black_Oaken_Heart_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Goblin Berserker",
+          3
+        ],
+        [
+          "War Monkey",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/6/6d/Black_Oaken_Heart_Part3_Map.jpg/600px-Black_Oaken_Heart_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Towering Maple Tree",
+          2
+        ],
+        [
+          "Towering Maple Tree",
+          2
+        ],
+        [
+          "Spreading Oak",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/a/a2/Black_Oaken_Heart_Part4_Map.jpg/581px-Black_Oaken_Heart_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Oak Tree King",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Beguiling Bush",
+  "moduleLink": "http://ln.to/LFG/maps/map17.htm",
+  "moduleLevel": "17",
+  "moduleDLC": "advSet5",
+  "moduleStages": [
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Pixie Druid",1],
+        ["Creeper",2],
+        ["Lumbering Heaps",1]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Pixie Druid",2],
+        ["Lumbering Heaps",2],
+        ["Pixie Beguilers",1],
+        ["Creeper",1]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Lumbering Heaps",2],
+        ["Terminator Vine",2],
+        ["Pixie Beguilers",2],
+        ["Esper Fungi",1]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Troll Tyrant",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Troll_Tyrant",
+  "moduleLevel": "18",
+  "moduleDLC": "advSet2",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/b/bf/Troll_Tyrant_Part_1_Map.jpg/600px-Troll_Tyrant_Part_1_Map.jpg",
+      "monsterList": [
+        [
+          "Rust Creature",
+          3
+        ],
+        [
+          "Fire Sprite",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/e/e4/Troll_Tyrant_Part_2_Map.jpg/585px-Troll_Tyrant_Part_2_Map.jpg",
+      "monsterList": [
+        [
+          "Rust Creature",
+          2
+        ],
+        [
+          "Troll Warrior",
+          1
+        ],
+        [
+          "Troll Warrior",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/12/Troll_Tyrant_Part_3_Map.jpg/600px-Troll_Tyrant_Part_3_Map.jpg",
+      "monsterList": [
+        [
+          "Storge",
+          5
+        ],
+        [
+          "Storge",
+          4
+        ],
+        [
+          "Storge",
+          4
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/f/f9/Troll_Tyrant_Part_4_Map.jpg/600px-Troll_Tyrant_Part_4_Map.jpg",
+      "monsterList": [
+        [
+          "Troll King",
+          1
+        ],
+        [
+          "Storge",
+          5
+        ],
+        [
+          "Whorl",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Secret of the Elder Mind",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Secret_of_the_Elder_Mind",
+  "moduleLevel": "18",
+  "moduleDLC": "advSet2",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/5/58/Secret_Elder_Mind_Part_1_Map.jpg/600px-Secret_Elder_Mind_Part_1_Map.jpg",
+      "monsterList": [
+        [
+          "Carrion Scuttler",
+          3
+        ],
+        [
+          "Carrion Scuttler",
+          3
+        ],
+        [
+          "Thought Muncher",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/e/e2/Secret_Elder_Mind_Part_2_Map.jpg/600px-Secret_Elder_Mind_Part_2_Map.jpg",
+      "monsterList": [
+        [
+          "Mind Flenser",
+          2
+        ],
+        [
+          "Mind Flenser",
+          2
+        ],
+        [
+          "Thought Muncher",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/1a/Secret_Elder_Mind_Part_3_Map.jpg/600px-Secret_Elder_Mind_Part_3_Map.jpg",
+      "monsterList": [
+        [
+          "Elder Mind",
+          1
+        ],
+        [
+          "Mind Flenser",
+          2
+        ],
+        [
+          "Riptide",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Black Plume Mountain",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Black_Plume_Mountain",
+  "moduleLevel": "18",
+  "moduleDLC": "advSet2",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/1/1c/Black_Plume_Mountain_Part_1_Map.jpg/600px-Black_Plume_Mountain_Part_1_Map.jpg",
+      "monsterList": [
+        [
+          "Umber Bulk",
+          2
+        ],
+        [
+          "Lava Spitter",
+          2
+        ],
+        [
+          "Lava Spitter",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/e/e7/Black_Plume_Mountain_Part_2_Map.jpg/600px-Black_Plume_Mountain_Part_2_Map.jpg",
+      "monsterList": [
+        [
+          "Lightning Idol",
+          3
+        ],
+        [
+          "Lightning Idol",
+          3
+        ],
+        [
+          "Umber Bulk",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/18/Black_Plume_Mountain_Part_3_Map.jpg/600px-Black_Plume_Mountain_Part_3_Map.jpg",
+      "monsterList": [
+        [
+          "Alabaster Dragon",
+          1
+        ],
+        [
+          "Blackhammer",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Metallic Monstrosity",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Metallic_Monstrosity",
+  "moduleLevel": "19",
+  "moduleDLC": "",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/e/e4/The_Metallic_Monstrosity_Part1_Map.jpg/600px-The_Metallic_Monstrosity_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Mutant Gunner",
+          1
+        ],
+        [
+          "Mutant Brute",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/2/2c/The_Metallic_Monstrosity_Part2_Map.jpg/600px-The_Metallic_Monstrosity_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Security Camera",
+          1
+        ],
+        [
+          "Mutant Brute",
+          2
+        ],
+        [
+          "Mutant Gunner",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/7/7b/The_Metallic_Monstrosity_Part3_Map.jpg/600px-The_Metallic_Monstrosity_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Security Robot",
+          1
+        ],
+        [
+          "Security Robot",
+          1
+        ],
+        [
+          "Security Cameras",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Passageways to Death",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Passageways_to_Death",
+  "moduleLevel": "19",
+  "moduleDLC": "advSet3",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/5/5d/Passageways_to_Death_Part1_Map.jpg/600px-Passageways_to_Death_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Rad Spider",
+          2
+        ],
+        [
+          "Rad Spider",
+          2
+        ],
+        [
+          "Mutant Gunner",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/b/b7/Passageways_to_Death_Part2_Map.jpg/600px-Passageways_to_Death_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Laser Turret",
+          1
+        ],
+        [
+          "Laser Turret",
+          1
+        ],
+        [
+          "Security Cameras",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/1/12/Passageways_to_Death_Part3_Map.jpg/600px-Passageways_to_Death_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Hacked Turret",
+          1
+        ],
+        [
+          "Baby Rad Spider",
+          5
+        ],
+        [
+          "Baby Rad Spider",
+          5
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Eastpass in Effigy",
+  "moduleLink": "http://ln.to/LFG/maps/map19.htm",
+  "moduleLevel": "19",
+  "moduleDLC": "advSet5",
+  "moduleStages": [
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Basilith",1],
+        ["Basilith",1]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Cave In Traps",3],
+        ["Basilith",1],
+        ["Green Jellies",3]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Cave In Traps",5],
+        ["Gorgox",1],
+        ["Gorgox",1]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Perilous Garden",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Perilous_Garden",
+  "moduleLevel": "20",
+  "moduleDLC": "advSet3",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/0/0d/The_Perilous_Garden_Part1_Map.jpg/600px-The_Perilous_Garden_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Security Cameras",
+          2
+        ],
+        [
+          "Mutant Grub",
+          2
+        ],
+        [
+          "Mutant Grub Egg",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/5/5f/The_Perilous_Garden_Part2_Map.jpg/600px-The_Perilous_Garden_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Mutant Brute",
+          2
+        ],
+        [
+          "Cunning Mutant",
+          1
+        ],
+        [
+          "Security Robot",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/4/4c/The_Perilous_Garden_Part3_Map.jpg/600px-The_Perilous_Garden_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Cunning Mutant",
+          1
+        ],
+        [
+          "Mutant Swarm",
+          2
+        ],
+        [
+          "Mutant Swarm Egg",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "In the Belly of the Beast",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/In_the_Belly_of_the_Beast",
+  "moduleLevel": "20",
+  "moduleDLC": "advSet3",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/8/8e/In_the_Belly_of_the_Beast_Part1_Map.jpg/600px-In_the_Belly_of_the_Beast_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Rumbling Mutant",
+          1
+        ],
+        [
+          "Rumbling Mutant",
+          1
+        ],
+        [
+          "Mutant Gunner",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/f/f7/In_the_Belly_of_the_Beast_Part2_Map.jpg/600px-In_the_Belly_of_the_Beast_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Rumbling Mutant",
+          1
+        ],
+        [
+          "Rumbling Mutant",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/6/60/In_the_Belly_of_the_Beast_Part3_Map.jpg/600px-In_the_Belly_of_the_Beast_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Invisible Spider",
+          2
+        ],
+        [
+          "Invisible Spider",
+          2
+        ],
+        [
+          "Invisible Spider",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Sanctum of the Cyber Tyrant",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Sanctum_of_the_Cyber_Tyrant",
+  "moduleLevel": "21",
+  "moduleDLC": "advSet3",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/0/01/Sanctum_of_the_Cyber_Tyrant_Part1_Map.jpg/600px-Sanctum_of_the_Cyber_Tyrant_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Cyber Mutant",
+          1
+        ],
+        [
+          "Powerful Mutant",
+          1
+        ],
+        [
+          "Troll Warrior",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/7/7c/Sanctum_of_the_Cyber_Tyrant_Part2_Map.jpg/600px-Sanctum_of_the_Cyber_Tyrant_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Cyber Mutant",
+          2
+        ],
+        [
+          "Cyber Gunner",
+          2
+        ],
+        [
+          "Cyber Boss",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/4/49/Sanctum_of_the_Cyber_Tyrant_Part3_Map.jpg/600px-Sanctum_of_the_Cyber_Tyrant_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Cyber Warrior",
+          1
+        ],
+        [
+          "Cyber Priest",
+          1
+        ],
+        [
+          "Cyber Wizard",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Throne of the Mechanical Men",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Throne_of_the_Mechanical_Men",
+  "moduleLevel": "21",
+  "moduleDLC": "advSet3",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/3/3d/Throne_of_the_Mechanical_Men_Part1_Map.jpg/600px-Throne_of_the_Mechanical_Men_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Brainy Mutant",
+          1
+        ],
+        [
+          "Laser Turret",
+          1
+        ],
+        [
+          "Laser Turret",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/c/c3/Throne_of_the_Mechanical_Men_Part2_Map.jpg/600px-Throne_of_the_Mechanical_Men_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Brainy Mutant",
+          1
+        ],
+        [
+          "Invisible Spider",
+          2
+        ],
+        [
+          "Cunning Mutant",
+          1
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/2/2c/Throne_of_the_Mechanical_Men_Part3_Map.jpg/600px-Throne_of_the_Mechanical_Men_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Security Robot",
+          1
+        ],
+        [
+          "Security Robot",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Lair of the Lithomancer",
+  "moduleLink": "http://ln.to/LFG/maps/map21.htm",
+  "moduleLevel": "21",
+  "moduleDLC": "advSet5",
+  "moduleStages": [
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Gargler",5],
+        ["Basilith",1]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Cave In Traps",4],
+        ["Medusa",1],
+        ["Gargler",4]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        ["Gargler",4],
+        ["Lord Stafford II",1],
+        ["Basilith",1],
+        ["Gorgox",1]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "The Spreading Blight",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/The_Spreading_Blight",
+  "moduleLevel": "21",
+  "moduleDLC": "advSet6",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/5/5d/The_Spreading_Blight_Part1_Map.jpg/600px-The_Spreading_Blight_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Silver Crossbowmen",
+          2
+        ],
+        [
+          "Vigilantes",
+          3
+        ],
+        [
+          "Vigilantes",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/8/88/The_Spreading_Blight_Part2_Map.jpg/600px-The_Spreading_Blight_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Inquisitor",
+          1
+        ],
+        [
+          "Silver Crossbowmen",
+          2
+        ],
+        [
+          "Vigilantes",
+          3
+        ],
+        [
+          "Vigilantes",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "",
+      "monsterList": [
+        [
+          "Werewolf",
+          1
+        ],
+        [
+          "Werewolf",
+          1
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Svitlana's Inquisition",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Svitlana%27s_Inquisition",
+  "moduleLevel": "21",
+  "moduleDLC": "advSet6",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/3/39/Svitlanas_Inquisition_Part1_Map.jpg/600px-Svitlanas_Inquisition_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Afflicted Townsfolk",
+          4
+        ],
+        [
+          "Afflicted Townsfolk",
+          4
+        ],
+        [
+          "Forest Spider",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/9/9d/Svitlanas_Inquisition_Part2_Map.jpg/600px-Svitlanas_Inquisition_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Captain Teadora",
+          1
+        ],
+        [
+          "Afflicted Guards",
+          3
+        ],
+        [
+          "Afflicted Guards",
+          3
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/b/bd/Svitlanas_Inquisition_Part3_Map.jpg/600px-Svitlanas_Inquisition_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Shade",
+          1
+        ],
+        [
+          "Shade",
+          1
+        ],
+        [
+          "Muscular Zombies",
+          2
+        ],
+        [
+          "Zombie",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/6/62/Svitlanas_Inquisition_Part4_Map.jpg/600px-Svitlanas_Inquisition_Part4_Map.jpg",
+      "monsterList": [
+        [
+          "Shade",
+          1
+        ],
+        [
+          "Werewolf",
+          1
+        ],
+        [
+          "Undead Priests",
+          2
+        ],
+        [
+          "Muscular Zombies",
+          2
+        ]
+      ]
+    }
+  ]
+},
+{
+  "moduleName": "Assault on Castle Mitternacht",
+  "moduleLink": "http://wiki.cardhuntria.com/wiki/Assault_on_Castle_Mitternacht",
+  "moduleLevel": "21",
+  "moduleDLC": "advSet6",
+  "moduleStages": [
+    {
+      "stageCover": "/images/thumb/9/94/Assault_on_Castle_Mitternacht_Part1_Map.jpg/600px-Assault_on_Castle_Mitternacht_Part1_Map.jpg",
+      "monsterList": [
+        [
+          "Reinforced Door",
+          5
+        ],
+        [
+          "Spirits",
+          2
+        ],
+        [
+          "Spirits",
+          2
+        ],
+        [
+          "Cave In Traps",
+          5
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/f/f4/Assault_on_Castle_Mitternacht_Part2_Map.jpg/600px-Assault_on_Castle_Mitternacht_Part2_Map.jpg",
+      "monsterList": [
+        [
+          "Reinforced Door",
+          5
+        ],
+        [
+          "Spirits",
+          3
+        ],
+        [
+          "Shade",
+          1
+        ],
+        [
+          "Ice Skeletons",
+          2
+        ]
+      ]
+    },
+    {
+      "stageCover": "/images/thumb/f/f3/Assault_on_Castle_Mitternacht_Part3_Map.jpg/600px-Assault_on_Castle_Mitternacht_Part3_Map.jpg",
+      "monsterList": [
+        [
+          "Countess Jovana",
+          1
+        ],
+        [
+          "Count Yurik",
+          1
+        ],
+        [
+          "Afflicted Townsfolk",
+          3
+        ],
+        [
+          "Spirits",
+          2
+        ]
+      ]
+    }
+  ]
+}
+]
